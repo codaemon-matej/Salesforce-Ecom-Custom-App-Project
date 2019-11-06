@@ -8,6 +8,9 @@ We have also developed an custom Authorize-Dot-Net API's that will creates an Or
 
 ## Technologies Used
 Frontend: Salesforce Canvas App, HTML, CSS, Jquery.
+
 Backend: Codeignitor, Mysql.
+
 Server: Heroku.
+
 Third-Party: Shopify, Authorize-Dot-Net.

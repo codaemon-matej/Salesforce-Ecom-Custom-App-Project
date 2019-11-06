@@ -7,7 +7,7 @@ The Ecom App had an Backend/Admin-Panel from where various authorised vendors ar
 We have also developed an custom Authorize-Dot-Net API's that will creates an Organisation's Profile & order payment will be charged or paid using this Authnet-Customer-Profile. Also, Authnet-echeck API was used to pay the gifts & goodies base amount to their respective vendors on weekly basis for their fulfilled orders.
 
 ## Technologies Used
-Frontend: Salesforce Canvas App, HTML, CSS, Jquery
-Backend: Codeignitor, Mysql
-Server: Heroku
-Third-Party: Shopify, Authorize.Net
+Frontend: Salesforce Canvas App, HTML, CSS, Jquery.
+Backend: Codeignitor, Mysql.
+Server: Heroku.
+Third-Party: Shopify, Authorize-Dot-Net.

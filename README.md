@@ -10,4 +10,5 @@ We have also developed an custom Authorize-Dot-Net API's that will creates an Or
 Frontend: Salesforce Canvas App, HTML, CSS, Jquery, OAuth.  
 Backend: Codeignitor, Mysql.  
 Server: Heroku.  
-Third-Party: Shopify, Authorize-Dot-Net.  
+Third-Party: Shopify, Authorize-Dot-Net, SFDC.  
+Tools: Git, TeamworkPM.  
